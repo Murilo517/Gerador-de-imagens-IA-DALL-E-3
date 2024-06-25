@@ -1,0 +1,18 @@
+# Ignorar a pasta do ambiente virtual Python
+dalle3-env/
+
+# Arquivos de Dependências
+pipfile.lock
+
+# Configurações Locais
+.env
+
+# Arquivos Gerados
+*.log
+*.jpg
+
+# Pasta Lib
+lib/
+
+# Comandos
+comandos.txt

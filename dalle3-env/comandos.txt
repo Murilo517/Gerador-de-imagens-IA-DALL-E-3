@@ -1,0 +1,1 @@
+source d:/Gerador-de-imagens-IA-DALL-E-3/dalle3-env/Scripts/activate
